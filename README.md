@@ -27,3 +27,17 @@ Enter the following commands in the terminal in order to setup the simulation en
 
 To use the Jupyter notebooks associated with this repo, you can use the NCSA 
 OpenOnDemand portal, which can be found here: http://openondemand.delta.ncsa.illinois.edu/
+
+This repo contains the data for ten different peptide chains. Each peptide chain contains 
+16 amino acid residues. Below is peptide sequence for each:
+
+ > 6D0 = ALA ASP ALA ALA ASP ALA ASP ALA ALA ASP ALA ASP ALA ALA ASP ALA\
+  6E0 = ALA GLU ALA ALA GLU ALA GLU ALA ALA GLU ALA GLU ALA ALA GLU ALA\
+  6F0 = ALA PHE ALA ALA PHE ALA PHE ALA ALA PHE ALA PHE ALA ALA PHE ALA\
+  6G0 = ALA GLY ALA ALA GLY ALA GLY ALA ALA GLY ALA GLY ALA ALA GLY ALA\
+  6H0 = ALA HIS ALA ALA HIS ALA HIS ALA ALA HIS ALA HIS ALA ALA HIS ALA\
+  6K0 = ALA LYS ALA ALA LYS ALA LYS ALA ALA LYS ALA LYS ALA ALA LYS ALA\
+  6M0 = ALA MET ALA ALA MET ALA MET ALA ALA MET ALA MET ALA ALA MET ALA\
+  6N0 = ALA ASN ALA ALA ASN ALA ASN ALA ALA ASN ALA ASN ALA ALA ASN ALA\
+  6P0 = ALA PRO ALA ALA PRO ALA PRO ALA ALA PRO ALA PRO ALA ALA PRO ALA\
+  6V0 = ALA VAL ALA ALA VAL ALA VAL ALA ALA VAL ALA VAL ALA ALA VAL ALA
